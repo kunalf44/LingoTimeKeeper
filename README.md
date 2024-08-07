@@ -11,11 +11,14 @@ LingoTimeKeeper is a versatile Qt Quick application developed using C++ and QML.
 
 ## UI Components
 - **Language and Timezone Selector**
+
     *ComboBox for Language Selection:*
         - Choose between English and Hindi.
     *ComboBox for Timezone Selection:*
         - Select from various timezones.
+        
 - **Display Area**
+
     *Current Time Display:*
         - Shows the time according to the selected timezone.
     *Current Date Display:*
